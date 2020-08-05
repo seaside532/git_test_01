@@ -1,2 +1,4 @@
 これはテスト用の1番目のファイルです。
 
+git add
+git commit
