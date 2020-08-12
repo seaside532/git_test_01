@@ -8,3 +8,8 @@ git diff -stagedの動作確認用に追記
 
 mvコマンドにはgit addが含まれている
 
+git reset HEADはステージングにaddした内容を取り消す。ワークツリーの状態は変わらない。
+
+git commit --amendは直前のコミットをやり直す。
+
+
