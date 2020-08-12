@@ -5,3 +5,6 @@ diffに関する追記で変更差分を確認する
 git diffの動作確認用に追記
 
 git diff -stagedの動作確認用に追記
+
+mvコマンドにはgit addが含まれている
+
